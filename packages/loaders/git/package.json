@@ -54,7 +54,7 @@
     "@graphql-tools/graphql-tag-pluck": "8.1.0",
     "@graphql-tools/utils": "^10.0.0",
     "is-glob": "4.0.3",
-    "micromatch": "^4.0.4",
+    "micromatch": "^4.0.6",
     "tslib": "^2.4.0",
     "unixify": "^1.0.0"
   },
