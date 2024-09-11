@@ -53,7 +53,7 @@
   "dependencies": {
     "@graphql-typed-document-node/core": "^3.1.1",
     "cross-inspect": "1.0.0",
-    "dset": "^3.1.2",
+    "dset": "^3.1.4",
     "tslib": "^2.4.0"
   },
   "devDependencies": {
